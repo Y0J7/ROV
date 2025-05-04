@@ -46,7 +46,3 @@ To set up the project locally:
 ## Contributing
 
 Contributions are welcome! If you'd like to improve the project, please fork the repository and submit a pull request. For major changes, open an issue first to discuss what you'd like to change.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
