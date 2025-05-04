@@ -1,5 +1,6 @@
 # Atlas Innovators ROV
 
+![ROV Thumbnail](assets/images/thumbnail.png)
 **Atlas Innovators ROV** is the official repository for the Atlas Innovators Team's Remotely Operated Vehicle (ROV) project. The team is dedicated to excellence in underwater robotics, aiming to achieve top performance in competitions and advance the field through innovation.
 
 ## Overview
